@@ -1,0 +1,104 @@
+
+* {
+padding:0px;
+margin:0px;
+font-family:verdana;
+}
+
+body {
+background-color:gray;
+}
+
+img {
+border: 0;
+}
+
+#wrapper {
+height:650px;
+width:940px;
+margin:auto;
+background-color:white;
+font-size:0px;
+}
+
+#header {
+height:150px;
+font-size:66px;
+font-weight: bold;
+}
+
+.innernav  {
+height: 50px;
+width: 235px;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+display: table-cell;
+vertical-align:middle;
+}
+
+#nav {
+height:50px;
+}
+
+.innersection {
+height:40px;
+width: 300px;
+padding:10px;
+margin: 0px 20px 20px 20px;
+font-size: 16px;
+background-color:white;
+font-weight:700;
+}
+.innersectionlg {
+height:300px;
+width: 600px;
+padding:10px;
+margin: 0px 20px 20px 20px;
+font-size: 16px;
+background-color:white;
+font-weight:700;
+}
+
+#section {
+height:330px;
+width:940px;
+background-image: url("img/sushi.jpg");
+padding-top:20px;
+}
+
+.innerfooter {
+height:100px;
+width: 300px;
+text-align: center;
+font-size: 12px;
+font-weight:700;
+vertical-align:middle;
+display: table-cell;
+color:white;
+}
+
+#footer {
+height:100px;
+font-size:0px;
+background-color:black;
+text-align:center;
+}
+
+#w3schools {
+margin-left:auto;
+margin-right:auto;
+height:100px;
+width:940px;
+}
+
+#w3schools-img {
+height:64px;
+width:64px;
+}
+
+#w3schools-txt {
+height:64px;
+width:64px;
+}
+
